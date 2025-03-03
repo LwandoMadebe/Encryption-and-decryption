@@ -11,4 +11,19 @@ This Python project provides a simple yet effective way to encrypt and decrypt m
 
 ✅ Uses a simple shift (Caesar) cipher for learning purposes
 
+### 🛠️ Installation
 
+Clone the Repository
+```sh
+git clone https://github.com/LwandoMadebe/Encryption-and-decryption.git
+cd Encryption-and-decryption
+```
+
+▶️ Usage
+Run the script:
+```sh
+encryptanddecrypt.py
+```
+
+### 🛡️ Security Notice
+This project uses a basic shift cipher (Caesar Cipher), which is not secure for real-world encryption. Consider using AES or RSA for strong encryptio
